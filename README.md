@@ -1,7 +1,7 @@
 # Brain Station 23 — Global Business Growth Strategy
 
 A static web version of the *Brain Station 23 Global Business Growth Strategy* deck (5 slides, 16:9).
-Every slide carries the footer **Presented by Sakin Saifullah**.
+Every slide carries the footer **Presented by MD. SAIFULLAH SAKIN**.
 
 - `index.html` is the whole site, with no build step and no dependencies.
 - Navigate with the arrow keys, PageUp/PageDown, Space, Home/End or the on-screen buttons.
